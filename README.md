@@ -26,5 +26,6 @@ The first notebook titanic_tc_01_tc_02_tc_03.ipynb contains 3 model outputs henc
 
 ### titanic_tc_13_tc_14_tc_15.ipynb
 Result
+
 <img width="286" alt="image" src="https://user-images.githubusercontent.com/40312249/210253501-795838e4-27d0-4f11-ac83-d16dc1f938c6.png">
 
