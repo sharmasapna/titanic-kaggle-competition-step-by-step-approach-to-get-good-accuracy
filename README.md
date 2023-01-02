@@ -12,15 +12,16 @@ Hello friends!
 This is an attempt to get good score in titanic kaggle competition.
 The approach will be helpful for basic begginers
 Following are some of the details that is followed:
-1. Using three ML models : RF, LR and XGBoost 
-2. Trying different methods of missing value imputation
-3. Use of binning
-4. Use of Scalers : Minmax/Standard Scalers
-5. Feature selection
-6. Creating new features from existing features
-7. Fine tuning
-8. Stacking
-9. ...
+- Using three ML models : RF, LR and XGBoost 
+- Trying different methods of missing value imputation
+- Use of binning
+- One hot encoding
+- Use of Scalers : Minmax/Standard Scalers
+- Feature selection
+- Creating new features from existing features
+- Fine tuning
+- Stacking
+- ...
 ### titanic_tc_01_tc_02_tc_03.ipynb
 The first notebook titanic_tc_01_tc_02_tc_03.ipynb contains 3 model outputs hence we have 3 testcases here as can be seen in the name of the file.
 
